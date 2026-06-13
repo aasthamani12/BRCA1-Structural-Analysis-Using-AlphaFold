@@ -1,5 +1,9 @@
 # Structural Prediction and Domain Analysis of BRCA1 Using AlphaFold
 
+<p align="center">
+  <img src="AlphaFold_Poster.png" width="900">
+</p>
+
 ## Overview
 This project focuses on the structural analysis of the BRCA1 protein using the AlphaFold Protein Structure Database. The study includes protein structure visualization, pLDDT confidence analysis, Predicted Aligned Error (PAE) interpretation, and domain organization analysis.
 
